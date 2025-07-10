@@ -1,5 +1,5 @@
 
-🌐 Mini URL Shortener API ✅
+# 🌐 Mini URL Shortener API ✅
 
 A production-ready backend application to shorten long URLs and redirect to the original URL using JavaScript, Node.js, Express, and MongoDB Atlas.
 
